@@ -1,0 +1,9 @@
+{
+    "python.defaultInterpreterPath": "/Users/chenry/.local/share/virtualenvs/streamlit_test-LVZO4QNt/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "black",
+    "editor.rulers": [
+        79
+    ]
+}
